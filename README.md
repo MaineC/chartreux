@@ -30,6 +30,7 @@ Learning material
 * Book: [Building successful online communities](https://mitpress.mit.edu/books/building-successful-online-communities) ... Online community building - *how* to grow your project online
 * Book: [Open organization](https://www.redhat.com/en/explore/the-open-organization-book) ... leading open teams - *why* and *how* to lead open teams
 * Book: [Reinventing organizations](https://www.reinventingorganizations.com/) ... top down vs bottom up - *why* and *how* to lead teams in a decentralized fashion
+* Webpage: [Choose a foundation](http://chooseafoundation.com/) ... help with choosing an open source foundation as home for your project
 
 Collaboration groups:
 
